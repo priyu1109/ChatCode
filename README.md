@@ -11,7 +11,7 @@
 - Your friends can not modify or run the code you guys are working on.
 - Sharing your entire screen requires a higher bandwidth internet connection for a smooth experience.
 - How would you like a platform where every one of your squad can modify the code while joined with audio to discuss it all?
-- Our team "Fantastic4" is here with "ChatCode", where you can chat with your friends while talking to them.
+- 
 
 **Features of ChatCode :**
 - Create different rooms
