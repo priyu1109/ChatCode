@@ -1,9 +1,6 @@
-﻿# CodeCode - Code Together
+﻿# Coder Room - Code Together
 
-This is the final submission for HackOdisha Hackathon.
 
-Link of the *hackathon*: https://hackodisha.devfolio.co/ <br />
-Link of the *project*: https://devfolio.co/submissions/chatcode-ce3b
 
 **The problem ChatCode solves**
 - How do you plan to code with your coding buddies?
